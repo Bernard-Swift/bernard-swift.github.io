@@ -80,7 +80,7 @@ body {
   border-bottom: none;
 }
 
-.linsk__link,
+.links__a,
 .links__link:visited {
   text-decoration: none;
   color: #3a42b6;
